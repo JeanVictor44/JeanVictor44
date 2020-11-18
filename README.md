@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp; &nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> 
 </p>
- <center>!["Person coding gif" ]("https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif")</center>
+ <center>!["Person coding gif" ](https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif)</center>
 
 <br>
