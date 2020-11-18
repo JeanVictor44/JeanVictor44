@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />p>
-<br>
+  <img alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" /> 
+</p>
+
