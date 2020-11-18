@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### 👨‍💻 Languages and Tools
+
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanVictor44&theme=radical)<!--<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+-->
+<br>
