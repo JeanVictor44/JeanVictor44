@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br>
+<br>
 ### 👨‍💻 Languages and Tools
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
@@ -20,6 +22,7 @@ Here are some ideas to get you started:
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 
+<br>
 
 <br>
 
