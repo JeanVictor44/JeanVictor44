@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br>
 
 <h2 align="center">
-👨‍💻 Here are some technologies I use at work:
+👨‍💻 Here are some technologies I use:
 </h2>
 
 <p align="center">
@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp; &nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> 
-</p><img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+</p>
+<img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+
 
 
 <br>
