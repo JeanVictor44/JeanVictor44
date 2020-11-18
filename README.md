@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <br>
 
-👨‍💻 Languages and Tools<br>
+👨‍💻 Languages and Tools<br><br>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
