@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <br>
-<br>
-### 👨‍💻 Languages and Tools
+
+👨‍💻 Languages and Tools
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 
 <br>
-
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanVictor44&theme=radical)<!--<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 -->
 <br>
