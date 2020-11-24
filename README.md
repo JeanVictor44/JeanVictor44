@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello Woroooorld!!
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-Here are some ideas to get you started:
+read below a little about me
 
 - 🔭 I'm currently working on my skills as a programmer
 - 🌱 I am currently learning React Js, Regex, English and a little bit about investment
