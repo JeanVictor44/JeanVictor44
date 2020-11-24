@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on my skills as a programmer
 - 🌱 I am currently learning React Js, Regex, English and a little bit about investment
-- 😄 
+- 😄 Some words that define me are: persistent, autodidact, creative and dedicated
 
 <br>
 
