@@ -12,6 +12,8 @@ read below a little about me
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanVictor44&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanVictor44&show_icons=true&theme=dracula)
+
 <h2 align="center">
 👨‍💻 Here are some technologies I use:
 </h2>
