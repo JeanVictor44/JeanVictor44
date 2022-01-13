@@ -1,4 +1,4 @@
-### Welcome to Jean's World!
+### 🌎 Welcome to Jean's World!
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/X6rTNtY70OpJQA4fIF/giphy.gif" />
 
