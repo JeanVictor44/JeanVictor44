@@ -39,4 +39,4 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/JeanVictor44/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JeanVictor44/JeanVictor44/blob/output/github-contribution-grid-snake.svg)
