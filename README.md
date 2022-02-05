@@ -38,5 +38,3 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
 </div>
-
-![Snake animation](https://github.com/JeanVictor44/JeanVictor44/blob/output/github-contribution-grid-snake.svg)
